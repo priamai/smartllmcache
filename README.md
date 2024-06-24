@@ -35,4 +35,6 @@ A recorded session demonstrating usage for threat intelligence on [youtube](http
 # Join the private Beta
 This is only in private beta, register your interest here.
 
+[Apply here](https://airtable.com/appGgOFISLXWsrrKF/shriHMaVDNOrzuhJY)
+
 
